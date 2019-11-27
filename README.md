@@ -1,4 +1,4 @@
-# Sistema-gerenciador-de-disciplinas-alunos-e-professores
+# Sistema-de-gerenciamento-de-instituicao-de-ensino
 
 ## Disciplina
 > Engenharia de Software (2019.2)
